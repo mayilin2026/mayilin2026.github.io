@@ -24,13 +24,13 @@ repository               : "mayilin2026/mayilin2026.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Ma Yilin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Master student in computational communication, focusing on international communication and cross-cultural dialogue"
+  location         : "Nanjing, China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2423282643@qq.com" 
   cv               : "/files/Ma_Yilin_CV.pdf"
   # Academic websites
   academia         : # URL

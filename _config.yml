@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master student in computational communication, focusing on international communication and cross-cultural dialogue"
   location         : "Nanjing, China"
-  employer         : "Nanjing University"
+  employer         : # "Nanjing University"
   uri              : # URL
   email            : "2423282643@qq.com" 
   cv               : "/files/Ma_Yilin_CV.pdf"
